@@ -1,0 +1,2 @@
+git add project1.txt
+git commit -m "changed project1.txt"
